@@ -9,23 +9,23 @@ Me gusta crear **aplicaciones web y móviles que resuelvan problemas reales y br
 
 # ୨ৎ Sobre mí
 
-♡ Me gusta desarrollar **aplicaciones web y móviles**
-♡ Me interesa el **diseño de interfaces y experiencia de usuario (UI/UX)**
-♡ Disfruto diseñar interfaces de usuario en Figma, enfocándome en una buena experiencia de usuario (UI/UX).
+♡ Me gusta desarrollar **aplicaciones web y móviles** |  
+♡ Me interesa el **diseño de interfaces y experiencia de usuario (UI/UX)** |  
+♡ Disfruto diseñar interfaces de usuario en **Figma**, enfocándome en una buena experiencia de usuario |  
 ♡ Siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades
 
 ---
 
 # ୨ৎ Tecnologías
 
-💗 **Lenguajes**
+🌸 **Lenguajes**
 
 * Java
 * JavaScript
 * Kotlin
 * SQL
 
-💗 **Frameworks y herramientas**
+🌸 **Frameworks y herramientas**
 
 * React
 * Node.js
@@ -33,12 +33,12 @@ Me gusta crear **aplicaciones web y móviles que resuelvan problemas reales y br
 * Android Studio
 * Vite
 
-💗 **Bases de datos**
+🌸 **Bases de datos**
 
 * Oracle
 * MongoDB
 
-💗 **Herramientas**
+🌸 **Herramientas**
 
 * Git
 * GitHub
@@ -54,7 +54,7 @@ Me gusta crear **aplicaciones web y móviles que resuelvan problemas reales y br
 
 Aplicación móvil y de escritorio desarrollada para **buscar y reservar hospedajes cercanos a la ubicación del usuario.**
 
-💡 **Características**
+🌸 **Características**
 
 * Búsqueda de hoteles cercanos usando la ubicación del usuario
 * Filtros avanzados como:
@@ -66,7 +66,7 @@ Aplicación móvil y de escritorio desarrollada para **buscar y reservar hospeda
 * Opción para **reportar o denunciar hoteles falsos**
 * Interfaz intuitiva para facilitar la búsqueda de hospedaje
 
-⚙ **Tecnologías utilizadas**
+🌸 **Tecnologías utilizadas**
 
 * Java
 * Kotlin
@@ -81,7 +81,7 @@ Aplicación móvil y de escritorio desarrollada para **buscar y reservar hospeda
 
 Aplicación web y móvil desarrollada para **Marquesa**, un emprendimiento real en El Salvador dedicado a la venta de **arreglos personalizados para diferentes ocasiones.**
 
-💡 **Características**
+🌸 **Características**
 
 * Catálogo de productos
 * Carrito de compras
@@ -89,7 +89,7 @@ Aplicación web y móvil desarrollada para **Marquesa**, un emprendimiento real 
 * Gestión de productos
 * Interfaz atractiva para mejorar la experiencia de compra
 
-⚙ **Tecnologías utilizadas**
+🌸 **Tecnologías utilizadas**
 
 * React
 * JavaScript
@@ -110,7 +110,7 @@ Aplicación web y móvil desarrollada para **Marquesa**, un emprendimiento real 
 
 # ୨ৎ Contacto
 
-♡ **Correo:** [emilyjacobocampos@gmail.com](mailto:emilyjacobocampos@gmail.com)
+♡ [emilyjacobocampos@gmail.com](mailto:emilyjacobocampos@gmail.com)
 
 ---
 
