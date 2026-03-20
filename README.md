@@ -1,73 +1,119 @@
-# 🌸 Hola, soy Emily Jacobo
+# 🌸 Hi, I'm Emily Jacobo ⋆. 𐙚 ˚
 
-✨ Desarrolladora apasionada por crear **aplicaciones web y móviles modernas**.
-💻 Me gusta aprender nuevas tecnologías y construir proyectos que solucionen problemas reales.
-🚀 Actualmente trabajando con **React, Node.js y desarrollo Android**.
+ **Desarrolladora de Software**
+ El Salvador
+♡ [emilyjacobocampos@gmail.com](mailto:emilyjacobocampos@gmail.com)
 
----
-
-## 🧠 Sobre mí
-
-* 🌱 Siempre aprendiendo nuevas tecnologías
-* 📱 Desarrollo de aplicaciones móviles con **Kotlin y Java**
-* 🌐 Desarrollo web con **React + Node.js**
-* ☁️ Manejo de imágenes con **Cloudinary**
-* 🗄️ Experiencia con **MongoDB y Oracle**
+¡Bienvenido a mi perfil de GitHub!
+Me gusta crear **aplicaciones web y móviles que resuelvan problemas reales y brinden una excelente experiencia al usuario.** Disfruto aprender nuevas tecnologías y desarrollar soluciones digitales creativas. 
 
 ---
 
-## 🚀 Tecnologías
+# ୨ৎ Sobre mí
 
-### 💻 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### ⚙️ Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-### 📱 Mobile
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-
-### 🗄️ Bases de datos
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+♡ Me gusta desarrollar **aplicaciones web y móviles**
+♡ Me interesa el **diseño de interfaces y experiencia de usuario (UI/UX)**
+♡ Disfruto diseñar interfaces de usuario en Figma, enfocándome en una buena experiencia de usuario (UI/UX).
+♡ Siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades
 
 ---
 
-## 📌 Proyectos Destacados
+# ୨ৎ Tecnologías
 
-🪑 **DreamCore**
-Plataforma web para alquiler de mobiliario para eventos con carrito de compras.
+💗 **Lenguajes**
 
-🏨 **App de Hoteles**
-Aplicación Android para visualizar hoteles, reservas y ubicación con Google Maps.
+* Java
+* JavaScript
+* Kotlin
+* SQL
 
-📰 **App de Noticias**
-Aplicación móvil en Kotlin que consume la API de New York Times para mostrar noticias por categorías.
+💗 **Frameworks y herramientas**
+
+* React
+* Node.js
+* Express
+* Android Studio
+* Vite
+
+💗 **Bases de datos**
+
+* Oracle
+* MongoDB
+
+💗 **Herramientas**
+
+* Git
+* GitHub
+* Figma
+* Postman
+* Cloudinary
 
 ---
 
-## 📊 Estadísticas de GitHub
+# ୨ৎ Proyectos
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=tokyonight)
+## 🛩️ GoStay!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=tokyonight)
+Aplicación móvil y de escritorio desarrollada para **buscar y reservar hospedajes cercanos a la ubicación del usuario.**
+
+💡 **Características**
+
+* Búsqueda de hoteles cercanos usando la ubicación del usuario
+* Filtros avanzados como:
+
+  * Presupuesto
+  * Servicios del hotel
+  * Disponibilidad
+* Sistema de **reservas directamente desde la aplicación**
+* Opción para **reportar o denunciar hoteles falsos**
+* Interfaz intuitiva para facilitar la búsqueda de hospedaje
+
+⚙ **Tecnologías utilizadas**
+
+* Java
+* Kotlin
+* Android Studio
+* APIs
+* Integración con base de datos
+* Arquitectura MVC
 
 ---
 
-## 🌎 Conecta conmigo
+## 🌸 Marquesa
 
-📧 Email: [tuemail@example.com](mailto:tuemail@example.com)
-💼 LinkedIn: https://linkedin.com/in/tuusuario
+Aplicación web y móvil desarrollada para **Marquesa**, un emprendimiento real en El Salvador dedicado a la venta de **arreglos personalizados para diferentes ocasiones.**
+
+💡 **Características**
+
+* Catálogo de productos
+* Carrito de compras
+* Personalización de arreglos
+* Gestión de productos
+* Interfaz atractiva para mejorar la experiencia de compra
+
+⚙ **Tecnologías utilizadas**
+
+* React
+* JavaScript
+* HTML / CSS
+* APIs
+* Base de datos
 
 ---
 
-⭐ *Gracias por visitar mi perfil.*
+# 🌱 Actualmente aprendiendo
+
+ Estoy mejorando mis conocimientos en:
+
+* Desarrollo **Full Stack**
+* Diseño **UI/UX**
+
+---
+
+# ୨ৎ Contacto
+
+♡ **Correo:** [emilyjacobocampos@gmail.com](mailto:emilyjacobocampos@gmail.com)
+
+---
+
+ Gracias por visitar mi perfil :)
