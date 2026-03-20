@@ -1,9 +1,7 @@
 # 🌸 Hi, I'm Emily Jacobo ⋆. 𐙚 ˚
 
  **Desarrolladora de Software**
- El Salvador
-♡ [emilyjacobocampos@gmail.com](mailto:emilyjacobocampos@gmail.com)
-
+ 
 ¡Bienvenido a mi perfil de GitHub!
 Me gusta crear **aplicaciones web y móviles que resuelvan problemas reales y brinden una excelente experiencia al usuario.** Disfruto aprender nuevas tecnologías y desarrollar soluciones digitales creativas. 
 
