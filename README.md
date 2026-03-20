@@ -9,10 +9,10 @@ Me gusta crear **aplicaciones web y móviles que resuelvan problemas reales y br
 
 # ୨ৎ Sobre mí
 
-♡ Desarrollo **aplicaciones web y móviles**   
-♡ Diseño interfaces en **Figma** 
-♡ Interesada en **UI/UX** 
-♡ Siempre aprendiendo nuevas tecnologías 
+♡ Me gusta desarrollar **aplicaciones web y móviles** |  
+♡ Me interesa el **diseño de interfaces y experiencia de usuario (UI/UX)** |  
+♡ Disfruto diseñar interfaces de usuario en **Figma**, enfocándome en una buena experiencia de usuario |  
+♡ Siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades
 
 ---
 
